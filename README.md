@@ -1,2 +1,2 @@
 Hi there! I am Usama Bin Haleem 👋 
-Full-stack developer with a degree in Computer Engineering from Comsats University Lahore. Over the years, I have developed numerous websites for clients, utilizing my skills in both front-end and back-end development to deliver robust and user-friendly solutions. My expertise includes working with modern web technologies and frameworks to create responsive and efficient web applications.
+
